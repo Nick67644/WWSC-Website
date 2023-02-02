@@ -7,3 +7,6 @@ WWSC Website - Archived Project
 
 # Web Archive
 * Check out http://web.archive.org/ to see some of the site's old updates.
+
+# WoC Sites
+* Make sure to also check out https://github.com/World-of-Coding/Old-WoC-Sites
